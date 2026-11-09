@@ -1,0 +1,17 @@
+{
+  "group": "glassed",
+  "key": {
+    "A": "minecraft:bamboo",
+    "B": "minecraft:glass_pane"
+  },
+  "pattern": [
+    "AB",
+    "AB",
+    "AB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwdoors:bamboo_glass_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

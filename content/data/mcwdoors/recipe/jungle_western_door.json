@@ -1,0 +1,17 @@
+{
+  "group": "western",
+  "key": {
+    "A": "minecraft:jungle_planks",
+    "B": "minecraft:jungle_slab"
+  },
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:jungle_western_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

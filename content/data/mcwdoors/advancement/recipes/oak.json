@@ -1,0 +1,57 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwdoors:print_oak",
+	  "mcwdoors:print_whispering",
+	  
+	  "mcwdoors:oak_bark_glass_door",
+	  "mcwdoors:oak_barn_door",
+	  "mcwdoors:oak_barn_glass_door",
+	  "mcwdoors:oak_beach_door",
+	  "mcwdoors:oak_tropical_door",
+	  "mcwdoors:oak_cottage_door",
+	  "mcwdoors:oak_four_panel_door",
+	  "mcwdoors:oak_glass_door",
+	  "mcwdoors:oak_japanese_door",
+	  "mcwdoors:oak_japanese2_door",
+	  "mcwdoors:oak_modern_door",
+	  "mcwdoors:oak_mystic_door",
+	  "mcwdoors:oak_nether_door",
+	  "mcwdoors:oak_paper_door",
+	  "mcwdoors:oak_stable_door",
+	  "mcwdoors:oak_stable_head_door",
+	  "mcwdoors:oak_swamp_door",
+	  "mcwdoors:oak_western_door",
+	  "mcwdoors:oak_waffle_door",
+	  "mcwdoors:oak_whispering_door",
+	  "mcwdoors:oak_bamboo_door"
+    ]
+  },
+  "criteria": {
+    "has_wood": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:oak_log"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mcwdoors:print_oak"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wood",
+      "has_the_recipe"
+    ]
+  ]
+}

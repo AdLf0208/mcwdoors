@@ -1,0 +1,17 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:acacia_planks",
+    "B": "minecraft:glass_pane"
+  },
+  "pattern": [
+    "AB",
+    "AA",
+    "AB"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:acacia_modern_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

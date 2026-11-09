@@ -1,0 +1,17 @@
+{
+  "group": "stable",
+  "key": {
+    "A": "minecraft:warped_planks",
+    "B": "minecraft:iron_bars"
+  },
+  "pattern": [
+    "BB",
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:warped_stable_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

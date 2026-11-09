@@ -1,0 +1,17 @@
+{
+  "group": "western",
+  "key": {
+    "A": "minecraft:birch_planks",
+    "B": "minecraft:birch_slab"
+  },
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:birch_western_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

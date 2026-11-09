@@ -1,0 +1,17 @@
+{
+  "group": "shoji_two",
+  "key": {
+    "A": "minecraft:warped_slab",
+    "B": "minecraft:paper"
+  },
+  "pattern": [
+    "BB",
+    "BB",
+    "AA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:warped_japanese2_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

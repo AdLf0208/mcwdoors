@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "condition": {
+            "block": "mcwdoors:warped_barn_door",
+            "properties": {
+              "half": "lower"
+            },
+            "type": "minecraft:block_state_property"
+          },
+          "name": "mcwdoors:warped_barn_door",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:block"
+}
