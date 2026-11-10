@@ -1,0 +1,13 @@
+# Port-owned content mod for Macaw's Doors 1.1.5 (1.21.1 NeoForge), carried
+# to Minecraft 26.3 / Horizon `41f822b6`: 240 directional door blocks on the
+# vanilla door template plus the 12 door-print items. The textures, models,
+# blockstates, recipes, loot tables and lang are the upstream mod's own assets
+# (MIT, local-only until the maintainer approves publishing; see ../notes.md).
+id = "mcwdoors"
+name = "Macaw's Doors"
+version = "0.1.0"
+description = "240 doors in wood, metal and glass styles, with door prints"
+authors = ["Sketch Macaw", "Sketch Peachy"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

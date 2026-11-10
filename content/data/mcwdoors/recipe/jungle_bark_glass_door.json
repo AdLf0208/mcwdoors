@@ -1,0 +1,17 @@
+{
+  "group": "bark",
+  "key": {
+    "A": "minecraft:jungle_log",
+    "B": "minecraft:glass"
+  },
+  "pattern": [
+    "AB",
+    "BB",
+    "AB"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:jungle_bark_glass_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

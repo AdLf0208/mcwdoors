@@ -1,0 +1,17 @@
+{
+  "group": "shoji",
+  "key": {
+    "A": "minecraft:jungle_planks",
+    "B": "minecraft:paper"
+  },
+  "pattern": [
+    "BB",
+    "BB",
+    "AA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:jungle_japanese_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

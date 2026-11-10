@@ -1,0 +1,14 @@
+{
+  "values": [
+    "mcwdoors:oak_nether_door",
+	"mcwdoors:spruce_nether_door",
+	"mcwdoors:birch_nether_door",
+	"mcwdoors:jungle_nether_door",
+	"mcwdoors:acacia_nether_door",
+	"mcwdoors:dark_oak_nether_door",
+	"mcwdoors:cherry_nether_door",
+	"mcwdoors:warped_nether_door",
+	"mcwdoors:mangrove_nether_door",
+	"mcwdoors:bamboo_nether_door"
+  ]
+}

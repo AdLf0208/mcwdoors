@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwdoors:print_birch",
+	  
+	  "mcwdoors:birch_bark_glass_door",
+	  "mcwdoors:birch_barn_door",
+	  "mcwdoors:birch_barn_glass_door",
+	  "mcwdoors:birch_beach_door",
+	  "mcwdoors:birch_classic_door",
+	  "mcwdoors:birch_cottage_door",
+	  "mcwdoors:birch_four_panel_door",
+	  "mcwdoors:birch_glass_door",
+	  "mcwdoors:birch_japanese_door",
+	  "mcwdoors:birch_japanese2_door",
+	  "mcwdoors:birch_modern_door",
+	  "mcwdoors:birch_mystic_door",
+	  "mcwdoors:birch_nether_door",
+	  "mcwdoors:birch_tropical_door",
+	  "mcwdoors:birch_stable_door",
+	  "mcwdoors:birch_stable_head_door",
+	  "mcwdoors:birch_swamp_door",
+	  "mcwdoors:birch_western_door",
+	  "mcwdoors:birch_waffle_door",
+	  "mcwdoors:birch_whispering_door",
+	  "mcwdoors:birch_bamboo_door"
+    ]
+  },
+  "criteria": {
+    "has_wood": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:birch_log"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mcwdoors:print_birch"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wood",
+      "has_the_recipe"
+    ]
+  ]
+}

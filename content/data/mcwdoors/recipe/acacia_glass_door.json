@@ -1,0 +1,17 @@
+{
+  "group": "glassed",
+  "key": {
+    "A": "minecraft:acacia_planks",
+    "B": "minecraft:glass_pane"
+  },
+  "pattern": [
+    "AB",
+    "BB",
+    "AB"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:acacia_glass_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

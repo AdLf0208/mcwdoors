@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [  
+	  "mcwdoors:metal_door",
+	  "mcwdoors:metal_warning_door",
+	  "mcwdoors:metal_hospital_door",
+	  "mcwdoors:metal_reinforced_door",
+	  "mcwdoors:metal_windowed_door",
+	  "mcwdoors:jail_door",
+	  "mcwdoors:garage_white_door",
+	  "mcwdoors:garage_silver_door",
+	  "mcwdoors:garage_gray_door",
+	  "mcwdoors:garage_black_door"
+    ]
+  },
+  "criteria": {
+    "has_wood": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:iron_ingot"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mcwdoors:metal_door"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wood",
+      "has_the_recipe"
+    ]
+  ]
+}

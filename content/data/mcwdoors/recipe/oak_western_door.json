@@ -1,0 +1,17 @@
+{
+  "group": "western",
+  "key": {
+    "A": "minecraft:oak_planks",
+    "B": "minecraft:oak_slab"
+  },
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:oak_western_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

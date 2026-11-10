@@ -1,0 +1,17 @@
+{
+  "group": "prints",
+  "key": {
+    "A": "minecraft:paper",
+    "B": "minecraft:oak_door"
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "mcwdoors:print_oak"
+  },
+  "type": "minecraft:crafting_shaped"
+}

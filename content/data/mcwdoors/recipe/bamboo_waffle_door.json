@@ -1,0 +1,17 @@
+{
+  "group": "waffle",
+  "key": {
+    "A": "minecraft:bamboo",
+    "B": "mcwdoors:print_waffle"
+  },
+  "pattern": [
+    "A",
+    "B",
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwdoors:bamboo_waffle_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

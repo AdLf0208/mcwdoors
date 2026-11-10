@@ -1,0 +1,17 @@
+{
+  "group": "shoji",
+  "key": {
+    "A": "minecraft:mangrove_planks",
+    "B": "minecraft:paper"
+  },
+  "pattern": [
+    "BB",
+    "BB",
+    "AA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:mangrove_japanese_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

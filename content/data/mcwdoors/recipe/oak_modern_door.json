@@ -1,0 +1,17 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:oak_planks",
+    "B": "minecraft:glass_pane"
+  },
+  "pattern": [
+    "AB",
+    "AA",
+    "AB"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:oak_modern_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

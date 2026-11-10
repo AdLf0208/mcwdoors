@@ -1,0 +1,17 @@
+{
+  "group": "western",
+  "key": {
+    "A": "minecraft:acacia_planks",
+    "B": "minecraft:acacia_slab"
+  },
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:acacia_western_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

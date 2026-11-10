@@ -1,0 +1,17 @@
+{
+  "group": "shoji_two",
+  "key": {
+    "A": "minecraft:spruce_slab",
+    "B": "minecraft:paper"
+  },
+  "pattern": [
+    "BB",
+    "BB",
+    "AA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:spruce_japanese2_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}
