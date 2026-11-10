@@ -1,0 +1,14 @@
+{
+  "group": "stable_head",
+  "key": {
+    "A": "mcwdoors:acacia_stable_door"
+  },
+  "pattern": [
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwdoors:acacia_stable_head_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

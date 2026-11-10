@@ -1,0 +1,17 @@
+{
+  "group": "paper",
+  "key": {
+    "A": "minecraft:jungle_planks",
+    "B": "mcwdoors:print_birch"
+  },
+  "pattern": [
+    "A",
+    "B",
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwdoors:jungle_paper_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

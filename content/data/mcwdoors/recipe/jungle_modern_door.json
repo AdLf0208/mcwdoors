@@ -1,0 +1,17 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:jungle_planks",
+    "B": "minecraft:glass_pane"
+  },
+  "pattern": [
+    "AB",
+    "AA",
+    "AB"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwdoors:jungle_modern_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

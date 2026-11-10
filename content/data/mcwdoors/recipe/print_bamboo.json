@@ -1,0 +1,17 @@
+{
+  "group": "prints",
+  "key": {
+    "A": "minecraft:paper",
+    "B": "minecraft:bamboo_door"
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "mcwdoors:print_bamboo"
+  },
+  "type": "minecraft:crafting_shaped"
+}

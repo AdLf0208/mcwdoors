@@ -1,0 +1,17 @@
+{
+  "group": "barn",
+  "key": {
+    "A": "minecraft:jungle_planks",
+    "B": "minecraft:stick"
+  },
+  "pattern": [
+    "BB",
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "count": 2,
+    "id": "mcwdoors:jungle_barn_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}

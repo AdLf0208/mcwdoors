@@ -1,0 +1,17 @@
+{
+  "group": "prints",
+  "key": {
+    "A": "minecraft:paper",
+    "B": "minecraft:acacia_door"
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "mcwdoors:print_acacia"
+  },
+  "type": "minecraft:crafting_shaped"
+}

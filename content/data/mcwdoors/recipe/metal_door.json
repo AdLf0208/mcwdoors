@@ -1,0 +1,16 @@
+{
+  "key": {
+    "A": "minecraft:iron_ingot",
+    "B": "minecraft:iron_nugget"
+  },
+  "pattern": [
+    "AA",
+    "AB",
+    "AA"
+  ],
+  "result": {
+    "count": 2,
+    "id": "mcwdoors:metal_door"
+  },
+  "type": "minecraft:crafting_shaped"
+}
